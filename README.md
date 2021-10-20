@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me: alanbsts50@gmail.com
 - 😄 Pronouns: He/his
+- ⚡ Fun fact: Specializes in soccer and movies :)
+
 
 ##  
 
