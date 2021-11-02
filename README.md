@@ -1,7 +1,7 @@
 ### Hi there, i'm Alandelon Bispo 👋
 
-- 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning React
+- 🔭 I'm not currently working in any company.
 - 📫 How to reach me: alanbsts50@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Specializes in soccer and movies :)
