@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning React
 - 🔭 I'm not currently working in any company.
-- 📫 How to reach me: alanbsts50@gmail.com
+- 📫 How to reach me: alannmg10@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Specializes in soccer and movies :)
 
@@ -19,6 +19,6 @@
   ##
  
 <div> 
-  <a href = "mailto:alanbsts50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:alannmg1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alandelon-bispo-33b404213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
