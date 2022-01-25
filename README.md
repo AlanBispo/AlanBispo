@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning React
 - 🔭 I'm not currently working in any company.
-- 📫 How to reach me: alannmg10@gmail.com
+- 📫 How to reach me: alannmg1@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Specializes in soccer and movies :)
 
