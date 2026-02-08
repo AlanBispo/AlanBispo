@@ -12,8 +12,8 @@
 
 Desenvolvedor de software com 2 anos de experiência profissional com foco em criação de API's escritas em PHP, Python no back-end e JavaScript/ReactJS no front-end, com experiência sólida em banco de dados MYSQL.
  
-- ☕ **Back-end:** Python (Flask), PHP (Laravel e Yii), APIs RESTful.
-- ⚛️ **Front-end:** React e TypeScript.
+- ☕ **Back-end:** Python (Django/FastAPI/Flask), PHP (Laravel), APIs RESTful.
+- ⚛️ **Front-end:** React, Angular e TypeScript.
 - 🐳 **DevOps & Containers**: Docker, GitHub Actions (CI/CD) e versionamento com Git.
 - 🗄️ **Banco de Dados:** MySQL, PostgreSQL e modelagem de dados relacional.
 
@@ -30,12 +30,14 @@ Desenvolvedor de software com 2 anos de experiência profissional com foco em cr
 
 ### • Back-end
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Yii](https://img.shields.io/badge/Yii-008000?style=for-the-badge&logo=yiiframework&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### • Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### • Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
