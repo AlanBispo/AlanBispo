@@ -53,7 +53,7 @@ Desenvolvedor de software com 2 anos de experiência profissional com foco em cr
 
 ## 📫 Vamos Conversar?
 
-<div align="center">
+<div>
   <a href="https://linkedin.com/in/alandelon-bispo-33b404213" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
